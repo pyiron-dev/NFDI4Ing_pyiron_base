@@ -1,7 +1,7 @@
 # NFDI4Ing pyiron_base
 This example implements the workflow defined by NFDI4Ing in pyiron_base. More details about the workflow are available in their [repository](https://github.com/BAMresearch/NFDI4IngScientificWorkflowRequirements) and the corresponding [publication](https://preprints.inggrid.org/repository/view/5/).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyiron_dev/NFDI4Ing_pyiron_base/HEAD?labpath=example.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyiron-dev/NFDI4Ing_pyiron_base/HEAD?labpath=example.ipynb)
 
 Content of this repository: 
 
