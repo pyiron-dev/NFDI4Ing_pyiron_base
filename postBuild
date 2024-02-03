@@ -1,2 +1,2 @@
 #!/bin/bash
-pip install git+https://github.com/pyiron/pyiron_base.git@execute_in_env --no-deps --no-build-isolation
+pip install git+https://github.com/pyiron/pyiron_base.git@nfdi4ing --no-deps --no-build-isolation
