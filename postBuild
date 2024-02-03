@@ -1,2 +1,3 @@
 #!/bin/bash
+# Currently these changes are not yet merged in the official pyiron_base version 
 pip install git+https://github.com/pyiron/pyiron_base.git@nfdi4ing --no-deps --no-build-isolation
