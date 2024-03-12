@@ -4,3 +4,5 @@ dependencies:
 - python=3.11
 - pyiron_base=0.7.11
 - conda_subprocess=0.0.1
+- pip
+- versioneer
