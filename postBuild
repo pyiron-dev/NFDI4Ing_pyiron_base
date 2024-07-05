@@ -1,2 +1,2 @@
 #!/bin/bash
-pip install pyiron_base=0.9.6 --no-build-isolation
+pip install pyiron_base==0.9.6 --no-build-isolation
