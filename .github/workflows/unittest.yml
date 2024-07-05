@@ -27,7 +27,7 @@ jobs:
         bash postBuild
         conda install -y papermill jupyter
         sudo apt-get install -y $(cat apt.txt)
-        papermill pyiron_base_graph.ipynb pyiron_base_graph_out.ipynb -k "python3" 
+        papermill demo_graph.ipynb demo_graph_out.ipynb -k "python3" 
       env:
         ASE_ESPRESSO_COMMAND: "pw.x -in PREFIX.pwi > PREFIX.pwo"
         ESPRESSO_PSEUDO: espresso/pseudo
