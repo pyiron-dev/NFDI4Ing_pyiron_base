@@ -1,3 +1,2 @@
 #!/bin/bash
-# Currently these changes are not yet merged in the official pyiron_base version - last update 27.03.2024 - 09:51
-pip install git+https://github.com/pyiron/pyiron_base.git@conda_ex --no-deps --no-build-isolation
+pip install pyiron_base==0.9.6 --no-build-isolation
