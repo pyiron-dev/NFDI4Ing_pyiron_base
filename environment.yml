@@ -2,13 +2,12 @@ channels:
 - conda-forge
 dependencies:
 - python=3.11
-- conda =23.11.0
-- conda_subprocess =0.0.4
 - versioneer =0.28
-- matplotlib =3.8.4
+- matplotlib =3.9.2
 - pygraphviz =1.13
 - networkx =3.3
-- executorlib =0.0.2
+- conda =24.5.0
+- conda_subprocess =0.0.5
 - cloudpickle =3.0.0
 - gitpython =3.1.43
 - h5io_browser =0.1.2
@@ -20,13 +19,14 @@ dependencies:
 - pint =0.24.3
 - psutil =6.0.0
 - pyfileindex =0.0.29
+- pyiron_dataclasses =0.0.1
 - pyiron_snippets =0.1.4
-- pysqa =0.1.22
-- sqlalchemy=2.0.35
+- executorlib =0.0.3
+- pysqa =0.2.0
 - pytables =3.10.1
+- sqlalchemy =2.0.35
 - tqdm =4.66.5
 - traitlets =5.14.3
 - pip
-- versioneer
 - pip:
   - git+https://github.com/pyiron/pyiron_base.git@delayed_server_obj
