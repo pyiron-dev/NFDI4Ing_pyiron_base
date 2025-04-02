@@ -9,3 +9,4 @@ dependencies:
 - matplotlib =3.8.4
 - pygraphviz =1.13
 - networkx =3.3
+- mamba
